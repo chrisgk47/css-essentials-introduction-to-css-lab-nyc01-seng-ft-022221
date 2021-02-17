@@ -2,8 +2,11 @@
 body {
   /* Your code here! */
   width: 700px;
+  margin: auto;
   height: 100%;
-  margin: 0;
+  font-family: "Helvetica Nue";
+  background: white;
+  padding: 30px;
 }
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
