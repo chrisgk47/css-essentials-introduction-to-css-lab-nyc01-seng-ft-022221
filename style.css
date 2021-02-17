@@ -3,7 +3,7 @@ body {
   /* Your code here! */
   width: 700px;
   height: 100%;
-  margin: 0%
+  margin: 0;
 }
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
